@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive, resume-worthy SQL portfolio piece designed to showcase advanced data analysis and business intelligence skills within the **E-commerce** domain. It focuses on transforming raw transactional data into actionable business insights, which is a core competency for any Data Scientist or Data Analyst.
+This project is a comprehensive,  SQL piece designed to showcase advanced data analysis and business intelligence skills within the **E-commerce** domain. It focuses on transforming raw transactional data into actionable business insights, which is a core competency for any Data Scientist or Data Analyst.
 
 The primary goal is to analyze customer behavior and optimize revenue by calculating and interpreting key performance indicators (KPIs) using advanced SQL techniques.
 
